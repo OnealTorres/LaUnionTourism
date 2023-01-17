@@ -1,3 +1,6 @@
+function muni(){
+  window.location.href = "municipalities.html"
+}
 $(document).ready(function () {
   "use strict";
 
